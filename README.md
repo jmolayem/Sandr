@@ -1,9 +1,9 @@
 # Sandr <img src="https://raw.githubusercontent.com/teamheisenberg/Sandr/master/Icon-60.3x.png" width="50px" height="50px" />
-An open source tinder application for Bernie supporters!
+An open source Tinder application for Bernie supporters!
 
 ## Mission
 
-Sandr is an iOS app based upon the ease of Tinder. You will be matched up with fellow supporters around you.
+Sandr is an iOS dating app that uses the ease of Tinder and allows you to match with supporters in around you. 
 
 ## Installation
 App uses Parse - a Backend-as-a-Service. To use, download the file and replace the Parse keys with your own. Parse is free, but will be shutting down in Janruary 2017 (fyi).
