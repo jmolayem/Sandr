@@ -1,13 +1,9 @@
-# Sandr
+# Sandr <img src="https://raw.github.com/samshadwell/TrumpScript/master/TrumpScript.jpg" width="50px" height="50px" />
 An open source tinder application for Bernie supporters!
 
-# Sandr <img src="https://raw.github.com/samshadwell/TrumpScript/master/TrumpScript.jpg" width="50px" height="50px" />
-Feel that Bern.
-
 ## Mission
-TrumpScript is a language based upon the illustrious Donald Trump. As the undeniably best presidential candidate in the 2016 language, we found that the current field of programming languages does not include any that Trump's glorious golden combover would approve of.
 
-Just like he is making America great again, we hope our efforts will make programming great again.
+Sandr is an iOS app based upon the ease of Tinder. You will be matched up with fellow supporters around you.
 
 ## Installation
 App uses Parse - a Backend-as-a-Service. To use, download the file and replace the Parse keys with your own. Parse is free, but will be shutting down in Janruary 2017 (fyi).
@@ -17,9 +13,11 @@ git clone https://github.com/jmmolaye/sandr.git
 ```
 
 ## Usage
-* Write a TrumpScript file following the syntax we've specified (good luck).
-* Execute `TRUMP /path/to/trumpscript/file`
-* Enjoy the wonderful world of TrumpScript!
+<img src="https://raw.githubusercontent.com/teamheisenberg/Sandr/master/Simulator%20Screen%20Shot%20Feb%2018%2C%202016%2C%2010.23.22%20PM.png" width="200px" height="200px" />
+<img src="https://raw.githubusercontent.com/teamheisenberg/Sandr/master/Simulator%20Screen%20Shot%20Feb%2018%2C%202016%2C%2010.23.26%20PM.png" width="200px" height="200px" />
+<img src="https://raw.githubusercontent.com/teamheisenberg/Sandr/master/Simulator%20Screen%20Shot%20Feb%2018%2C%202016%2C%2010.23.50%20PM.png" width="200px" height="200px" />
+<img src="https://github.com/teamheisenberg/Sandr/blob/master/Simulator%20Screen%20Shot%20Feb%2018%2C%202016%2C%2010.25.07%20PM.png" width="200px" height="200px" />
+<img src="https://github.com/teamheisenberg/Sandr/blob/master/Simulator%20Screen%20Shot%20Feb%2018%2C%202016%2C%2010.25.32%20PM.png" width="200px" height="200px" />
 
 ## Features
 Our language includes several convenient features, perfect for the Sanders supporter:
