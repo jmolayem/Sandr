@@ -1,4 +1,4 @@
-# Sandr <img src="https://raw.github.com/samshadwell/TrumpScript/master/TrumpScript.jpg" width="50px" height="50px" />
+# Sandr <img src="https://raw.githubusercontent.com/teamheisenberg/Sandr/master/Icon-60.3x.png" width="50px" height="50px" />
 An open source tinder application for Bernie supporters!
 
 ## Mission
